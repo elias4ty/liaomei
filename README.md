@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # liaomei
 
 ## Project setup
@@ -19,3 +20,6 @@ npm run build
 ```
 npm run lint
 ```
+=======
+# liaomei
+>>>>>>> 5fa0cd7315f71563bbdb28f4f6691fddff6df04c
